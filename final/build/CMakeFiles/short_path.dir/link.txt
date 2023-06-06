@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall -rdynamic CMakeFiles/short_path.dir/Untitled-1.cpp.o CMakeFiles/short_path.dir/main.cpp.o -o short_path  -Wl,-rpath,/opt/systemc/lib /opt/systemc/lib/libsystemc.so.2.3.3 

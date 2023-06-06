@@ -1,0 +1,1 @@
+in stratus just use make sim_V_BASIC
